@@ -30,75 +30,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI agents and agentic developer tools market is estimated at **$10.7B to $14.6B in 2026** and projected to exceed **$50B to $65B+ by 2030** (growing at a ~35%–45% CAGR) as software shifts from passive prompts to autonomous, multi-step agent execution. The sector is currently **moderately fragmented**: foundational cloud hyperscalers (Microsoft, AWS, Google) command the infrastructure and compute tier, but specialized orchestration, observability, and evaluation middleware remain highly competitive with rapid developer-led, open-core adoption rather than a single winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[LangSmith & LangGraph Platform (LangChain)](https://langchain.com)**  
-
-  Managed cloud platform for deploying, scaling, debugging, and evaluating stateful LangChain and LangGraph agent workflows in production.
-
-
-
-- **[LlamaCloud (LlamaIndex)](https://llamaindex.ai)**  
-
-  Enterprise cloud platform offering LlamaParse document parsing, managed knowledge indexing, and context-augmented agent infrastructure.
-
-
-
-- **[CrewAI Enterprise](https://crewai.com)**  
-
-  Hosted multi-agent orchestration studio providing visual workflow builders, RBAC security, real-time telemetry, and managed crew deployments.
-
-
-
-- **[Azure AI Foundry / Prompt flow Cloud](https://microsoft.com)**  
-
-  Enterprise cloud AI studio and managed Prompt flow runtime for authoring, evaluating, and deploying multi-agent pipelines with enterprise governance.
-
-
-
-- **[Langfuse Cloud](https://langfuse.com)**  
-
-  Managed cloud deployment of the open-source LLM engineering platform providing trace analytics, prompt versioning, datasets, and online agent evaluations.
-
-
-
-- **[Dify Cloud](https://dify.ai)**  
-
-  Hosted LLM application and agentic workflow builder combining visual orchestration, RAG pipelines, model routing, and API publishing.
-
-
-
-- **[Flowise Cloud](https://flowiseai.com)**  
-
-  Cloud-hosted low-code visual platform for building, testing, and embedding multi-agent flows and tool-calling assistants.
-
-
-
-- **[Braintrust](https://braintrust.dev)**  
-
-  Enterprise AI evaluation, prompt playground, and observability platform designed to benchmark agent developer workflows and catch regressions.
-
-
-
-- **[Portkey Cloud](https://portkey.ai)**  
-
-  Managed AI gateway and observability suite offering multi-provider routing, semantic caching, guardrails, and virtual key management.
-
-
-
-
+| Platform | Company Valuation / Revenue | Description | Starting Paid Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Azure AI Foundry / Prompt flow Cloud](https://microsoft.com)** | **$3.8T Market Cap** (Microsoft) / $245B+ Annual Revenue | Enterprise cloud AI studio and managed Prompt flow runtime for authoring, evaluating, and deploying multi-agent pipelines with enterprise governance. | **Pay-as-you-go** compute & token billing (e.g. Standard VM from ~$0.096/hr; GPT-4o from $2.50/1M input tokens) | **Free subscription tier**: Restricted to testing/learning with strict TPM/RPM throttling and basic models; includes $200 Azure credit for 30 days on new accounts. |
+| **[Langfuse Cloud](https://langfuse.com)** | **$15B Valuation** (Acquired by ClickHouse; ClickHouse Series D at $15B) | Managed cloud deployment of the open-source LLM engineering platform providing trace analytics, prompt versioning, datasets, and online agent evaluations. | **$29/month** (Core plan, includes 100k events/mo; overages at $10/100k) | **Hobby Plan (Free forever)**: Up to 50,000 observations/events per month, 30-day data retention, 2 user seats, no credit card required. |
+| **[LangSmith & LangGraph Platform (LangChain)](https://langchain.com)** | **$3.0B Valuation** (Series C) / ~$15M ARR | Managed cloud platform for deploying, scaling, debugging, and evaluating stateful LangChain and LangGraph agent workflows in production. | **$39/seat/month** (Plus plan, includes 50k traces/mo; overages at $0.005/trace) | **Developer Plan (Free forever)**: 1 seat, up to 5,000 base traces per month, 14-day data retention, hard-capped (no accidental overages). |
+| **[Braintrust](https://braintrust.dev)** | **$800M Valuation** (Series B) / $10M+ ARR | Enterprise AI evaluation, prompt playground, and observability platform designed to benchmark agent developer workflows and catch regressions. | **$249/month** (Pro plan, includes 5 GB processed data, 50k scores/mo, $100 model credit) | **Starter Plan (Free forever)**: $0/month, 1 GB data processed per month, 10,000 scores per month, 14-day retention, $10 included model credits, no credit card required. |
+| **[Dify Cloud](https://dify.ai)** | **$180M Valuation** (Series Pre-A) / ~$3.1M ARR | Hosted LLM application and agentic workflow builder combining visual orchestration, RAG pipelines, model routing, and API publishing. | **$59/month** (Professional plan; or $590/year for 3 team members & 5,000 message credits/mo) | **Sandbox Plan (Free forever)**: 1 workspace member, up to 10 apps, 200 message credits, 5MB vector storage (BYO API keys to bypass rate limits). |
+| **[Flowise Cloud](https://flowiseai.com)** | **$100M+ Enterprise Unit** (Acquired by Workday; $65B+ Market Cap) / ~$1M ARR | Cloud-hosted low-code visual platform for building, testing, and embedding multi-agent flows and tool-calling assistants. | **$35/month** (Starter plan; unlimited flows, 10,000 predictions/month, 1GB storage) | **Free Tier**: $0/month, up to 2 active flows, 100 predictions per month, 5MB storage, community support. |
+| **[LlamaCloud (LlamaIndex)](https://llamaindex.ai)** | **$89M Valuation** (Series A) / $3M+ ARR | Enterprise cloud platform offering LlamaParse document parsing, managed knowledge indexing, and context-augmented agent infrastructure. | **$50/month** (Starter plan, includes 40,000 credits/month; overages up to $500/month at $1.25/1k credits) | **Free Plan**: 10,000 credits per month (approx. 1,000 standard pages/month), hard stop with no overages. |
+| **[CrewAI Enterprise](https://crewai.com)** | **$75M–$100M Valuation** (Series A) / ~$3M ARR | Hosted multi-agent orchestration studio providing visual workflow builders, RBAC security, real-time telemetry, and managed crew deployments. | **$25/month** (Professional plan; expanded execution limits for small teams) | **Basic Plan (Free forever)**: $0/month, includes visual workflow builder, AI copilot, and up to 50 workflow executions per month. |
+| **[Portkey Cloud](https://portkey.ai)** | **$50M+ Enterprise Unit** (Acquired by Palo Alto Networks; $110B+ Market Cap) / ~$5M ARR | Managed AI gateway and observability suite offering multi-provider routing, semantic caching, guardrails, and virtual key management. | **$49/month** (Production plan; 100,000 logs/month, 30-day retention, $9 per additional 100k requests) | **Developer Plan (Free forever)**: $0/month, 10,000 recorded log requests per month, 3-day data retention, unlimited guardrails and virtual keys. |
 
 ## Open-Source GitHub Projects
 
