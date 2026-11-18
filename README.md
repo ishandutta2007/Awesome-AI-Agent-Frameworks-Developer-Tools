@@ -63,141 +63,141 @@ The global AI agents and agentic developer tools market is estimated at **$10.7B
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-Sorted in descending order by GitHub stargazer count. Every star badge links directly to the respective project's stargazer community.
+Sorted in descending order by GitHub stargazer count. Every Stars_Badge links directly to the respective project's stargazer community.
 
-- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** <a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** <a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Open-source autonomous AI agent platform attempting to achieve goals self-directed by breaking objectives into sub-tasks.
 
-- **[LangChain & LangGraph](https://github.com/langchain-ai/langchain)** <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="GitHub Stars"/></a>
+- **[LangChain & LangGraph](https://github.com/langchain-ai/langchain)** <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Industry-leading Python and TypeScript framework for composable LLM chains, agent workflows, and stateful multi-agent graphs.
 
-- **[Browser Use](https://github.com/browser-use/browser-use)** <a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Browser Use](https://github.com/browser-use/browser-use)** <a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Open-source web-browsing agent that empowers LLMs to interact with and automate tasks in web browsers seamlessly.
 
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** <a href="https://github.com/addyosmani/agent-skills/stargazers"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social&color=white" alt="GitHub Stars"/></a>
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** <a href="https://github.com/addyosmani/agent-skills/stargazers"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Production-grade engineering workflow skills (SKILL.md specs) for Claude Code, Cursor, Gemini CLI, and Windsurf.
 
-- **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** <a href="https://github.com/All-Hands-AI/OpenHands/stargazers"><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white" alt="GitHub Stars"/></a>
+- **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** <a href="https://github.com/All-Hands-AI/OpenHands/stargazers"><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Autonomous AI software engineer platform capable of writing code, debugging, executing shell commands, and building software systems.
 
-- **[Model Context Protocol (MCP) Servers](https://github.com/modelcontextprotocol/servers)** <a href="https://github.com/modelcontextprotocol/servers/stargazers"><img src="https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Model Context Protocol (MCP) Servers](https://github.com/modelcontextprotocol/servers)** <a href="https://github.com/modelcontextprotocol/servers/stargazers"><img src="https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Standardized reference servers connecting LLMs and agent frameworks to filesystems, databases, APIs, and dev tools.
 
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** <a href="https://github.com/geekan/MetaGPT/stargazers"><img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white" alt="GitHub Stars"/></a>
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** <a href="https://github.com/geekan/MetaGPT/stargazers"><img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Multi-agent meta-programming framework that assigns diverse software company roles (PM, architect, engineer) to collaborative LLMs.
 
-- **[Mem0](https://github.com/mem0ai/mem0)** <a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Mem0](https://github.com/mem0ai/mem0)** <a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white" alt="GitHub_Stars"/></a>
 
   The memory layer for personalized AI agents, providing dynamic, long-term memory management across sessions and users.
 
-- **[LiteLLM](https://github.com/BerriAI/litellm)** <a href="https://github.com/BerriAI/litellm/stargazers"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white" alt="GitHub Stars"/></a>
+- **[LiteLLM](https://github.com/BerriAI/litellm)** <a href="https://github.com/BerriAI/litellm/stargazers"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Open-source Python SDK and OpenAI-compatible proxy server unifying 100+ LLM providers with load balancing, fallbacks, and tracking.
 
-- **[Microsoft AutoGen](https://github.com/microsoft/autogen)** <a href="https://github.com/microsoft/autogen/stargazers"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Microsoft AutoGen](https://github.com/microsoft/autogen)** <a href="https://github.com/microsoft/autogen/stargazers"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Framework and AutoGen Studio UI for building multi-agent conversational patterns and event-driven asynchronous agent workflows.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** <a href="https://github.com/crewAIInc/crewAI/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white" alt="GitHub Stars"/></a>
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** <a href="https://github.com/crewAIInc/crewAI/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Python framework for orchestrating teams of autonomous, role-playing agents that collaborate to solve complex problems.
 
-- **[LlamaIndex](https://github.com/run-llama/llama_index)** <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="GitHub Stars"/></a>
+- **[LlamaIndex](https://github.com/run-llama/llama_index)** <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Leading data framework and event-driven workflow engine for connecting LLMs and agent architectures with private enterprise data.
 
-- **[Aider](https://github.com/Aider-AI/aider)** <a href="https://github.com/Aider-AI/aider/stargazers"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Aider](https://github.com/Aider-AI/aider)** <a href="https://github.com/Aider-AI/aider/stargazers"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white" alt="GitHub_Stars"/></a>
 
   AI pair programming tool directly in the terminal that allows developers to edit code in local git repositories via LLMs.
 
-- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** <a href="https://github.com/agno-agi/agno/stargazers"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** <a href="https://github.com/agno-agi/agno/stargazers"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white" alt="GitHub_Stars"/></a>
 
   High-performance Python runtime for building multi-modal agents with shared memory, knowledge bases, and deterministic workflows.
 
-- **[DSPy (Stanford NLP)](https://github.com/stanfordnlp/dspy)** <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="GitHub Stars"/></a>
+- **[DSPy (Stanford NLP)](https://github.com/stanfordnlp/dspy)** <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Declarative framework for programming—rather than prompting—language models using self-improving algorithmic optimizers.
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Langfuse](https://github.com/langfuse/langfuse)** <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Open-source LLM engineering platform for full-stack agent tracing, prompt management, session replays, and automated evaluations.
 
-- **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** <a href="https://github.com/openai/openai-agents-python/stargazers"><img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social&color=white" alt="GitHub Stars"/></a>
+- **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** <a href="https://github.com/openai/openai-agents-python/stargazers"><img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Lightweight Python runtime by OpenAI for multi-agent handoffs, guardrails, session persistence, and trace inspection.
 
-- **[Smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** <a href="https://github.com/huggingface/smolagents/stargazers"><img src="https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** <a href="https://github.com/huggingface/smolagents/stargazers"><img src="https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Minimalist library centered on code-executing agents that write and run Python actions directly inside secure sandboxes.
 
-- **[Mastra](https://github.com/mastra-ai/mastra)** <a href="https://github.com/mastra-ai/mastra/stargazers"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Mastra](https://github.com/mastra-ai/mastra)** <a href="https://github.com/mastra-ai/mastra/stargazers"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Open-source TypeScript agent framework featuring stateful workflows, memory management, RAG, and native Next.js integration.
 
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** <a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** <a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Microsoft enterprise SDK for integrating LLMs and agents with enterprise plugins, planners, and memory in C#, Python, and Java.
 
-- **[Vercel AI SDK](https://github.com/vercel/ai)** <a href="https://github.com/vercel/ai/stargazers"><img src="https://img.shields.io/github/stars/vercel/ai?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Vercel AI SDK](https://github.com/vercel/ai)** <a href="https://github.com/vercel/ai/stargazers"><img src="https://img.shields.io/github/stars/vercel/ai?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Leading TypeScript toolkit for building streaming AI user interfaces, multi-step tool-calling agents, and generative UI components.
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** <a href="https://github.com/promptfoo/promptfoo/stargazers"><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** <a href="https://github.com/promptfoo/promptfoo/stargazers"><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white" alt="GitHub_Stars"/></a>
 
   CLI tool and library for evaluating LLM outputs, red-teaming, prompt engineering security, and CI/CD agent regression testing.
 
-- **[Haystack (deepset)](https://github.com/deepset-ai/haystack)** <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Haystack (deepset)](https://github.com/deepset-ai/haystack)** <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Modular Python AI orchestration framework for building customizable agent pipelines, tool-calling loops, and hybrid RAG systems.
 
-- **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)** <a href="https://github.com/letta-ai/letta/stargazers"><img src="https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)** <a href="https://github.com/letta-ai/letta/stargazers"><img src="https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Memory-centric agent framework providing stateful LLMs with perpetual context and self-editing long-term hierarchical memory.
 
-- **[Google Agent Development Kit (ADK)](https://github.com/google/adk-python)** <a href="https://github.com/google/adk-python/stargazers"><img src="https://img.shields.io/github/stars/google/adk-python?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Google Agent Development Kit (ADK)](https://github.com/google/adk-python)** <a href="https://github.com/google/adk-python/stargazers"><img src="https://img.shields.io/github/stars/google/adk-python?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Flexible open-source toolkit for developing, evaluating, and deploying modular multi-agent hierarchies.
 
-- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** <a href="https://github.com/pydantic/pydantic-ai/stargazers"><img src="https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** <a href="https://github.com/pydantic/pydantic-ai/stargazers"><img src="https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Type-safe Python agent framework engineered by the Pydantic team for validated structured outputs and durable execution.
 
-- **[ElizaOS](https://github.com/elizaOS/eliza)** <a href="https://github.com/elizaOS/eliza/stargazers"><img src="https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white" alt="GitHub Stars"/></a>
+- **[ElizaOS](https://github.com/elizaOS/eliza)** <a href="https://github.com/elizaOS/eliza/stargazers"><img src="https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Flexible multi-agent operating system and framework for autonomous agents with Discord/Twitter integration and custom actions.
 
-- **[CAMEL](https://github.com/camel-ai/camel)** <a href="https://github.com/camel-ai/camel/stargazers"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white" alt="GitHub Stars"/></a>
+- **[CAMEL](https://github.com/camel-ai/camel)** <a href="https://github.com/camel-ai/camel/stargazers"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Pioneering multi-agent communication framework enabling role-playing communicative agents to explore cooperative behaviors.
 
-- **[Instructor](https://github.com/instructor-ai/instructor)** <a href="https://github.com/instructor-ai/instructor/stargazers"><img src="https://img.shields.io/github/stars/instructor-ai/instructor?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Instructor](https://github.com/instructor-ai/instructor)** <a href="https://github.com/instructor-ai/instructor/stargazers"><img src="https://img.shields.io/github/stars/instructor-ai/instructor?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Structured LLM output extraction library built on top of Pydantic across Python, TypeScript, Elixir, and Rust.
 
-- **[Eino (CloudWeGo)](https://github.com/cloudwego/eino)** <a href="https://github.com/cloudwego/eino/stargazers"><img src="https://img.shields.io/github/stars/cloudwego/eino?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Eino (CloudWeGo)](https://github.com/cloudwego/eino)** <a href="https://github.com/cloudwego/eino/stargazers"><img src="https://img.shields.io/github/stars/cloudwego/eino?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Production-grade, highly extensible Go framework for building LLM applications and agent graphs with component composition.
 
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="GitHub_Stars"/></a>
 
   AI observability and evaluation platform for tracing agent execution graphs, evaluations, and OpenTelemetry debugging.
 
-- **[Microsoft Prompt flow](https://github.com/microsoft/promptflow)** <a href="https://github.com/microsoft/promptflow/stargazers"><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Microsoft Prompt flow](https://github.com/microsoft/promptflow)** <a href="https://github.com/microsoft/promptflow/stargazers"><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Developer tool suite designed to streamline the end-to-end development cycle of LLM-based agent applications.
 
-- **[Rig](https://github.com/0xPlaygrounds/rig)** <a href="https://github.com/0xPlaygrounds/rig/stargazers"><img src="https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Rig](https://github.com/0xPlaygrounds/rig)** <a href="https://github.com/0xPlaygrounds/rig/stargazers"><img src="https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social&color=white" alt="GitHub_Stars"/></a>
 
   High-performance, modular Rust library for building scalable LLM applications and agents with type safety.
 
-- **[Mirascope](https://github.com/Mirascope/mirascope)** <a href="https://github.com/Mirascope/mirascope/stargazers"><img src="https://img.shields.io/github/stars/Mirascope/mirascope?style=social&color=white" alt="GitHub Stars"/></a>
+- **[Mirascope](https://github.com/Mirascope/mirascope)** <a href="https://github.com/Mirascope/mirascope/stargazers"><img src="https://img.shields.io/github/stars/Mirascope/mirascope?style=social&color=white" alt="GitHub_Stars"/></a>
 
   Clean, Pythonic LLM developer toolkit emphasizing type safety, prompt colocation, structured outputs, and provider-agnostic calling.
 
